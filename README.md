@@ -56,7 +56,7 @@ The application is designed as a beginner-friendly mini project and is deployed 
 
 ## Deployment
 
-Hosted on Render
+Hosted on Render via link: (https://confy-weather.onrender.com)
 
 Environment variables are configured via the Render dashboard
 
