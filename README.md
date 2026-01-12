@@ -37,19 +37,20 @@ The application is designed as a beginner-friendly mini project and is deployed 
 
 ## ⚙️ Installation & Setup
 
-1. Clone the repository
+### 1. Clone the repository
     git clone https://github.com/Confy-Code/Weather_calcs.git
+    
     cd Weather_calcs
 
-2. Create your own virtual environment
+#### 2. Create your own virtual environment
     python -m venv venv
     source venv/bin/activate   
     On Windows: venv\Scripts\activate
 
-3. Install the progect's dependencies
+#### 3. Install the progect's dependencies
       pip install -r requirements.txt
 
-4. Run the application and open your localhost adress via browser
+### 4. Run the application and open your localhost adress via browser
       python server.py
 
 
