@@ -1,5 +1,5 @@
 ### Author: Confy-Code
-# 📘 Weather Application – Technical Documentation
+# Weather Application – Technical Documentation
 
 ## 1. Overview
 
