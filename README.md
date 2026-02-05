@@ -35,7 +35,7 @@ The application is designed as a beginner-friendly mini project and is deployed 
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
     git clone https://github.com/Confy-Code/Weather_calcs.git
